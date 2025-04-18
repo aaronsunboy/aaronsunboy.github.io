@@ -40,7 +40,7 @@ Currently, I’m:
 - **Math Olympiad Program (MOP, 2023):** Invited for USAMO performance.
 - Coursework: Multivariable Calc, Linear Algebra, Analysis, Physics C, Java, Harvard CS50x
 
-📄 [View my full CV](./cv.pdf)
+📄 [View my full CV](./AaronLin_CV.pdf)
 
 ---
 
