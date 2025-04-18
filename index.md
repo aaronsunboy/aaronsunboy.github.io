@@ -5,7 +5,7 @@ title: Aaron Lin
 
 # 👋 Hi, I'm Aaron Lin
 
-I’m a high school senior passionate about mathematics, computer science, and artificial intelligence. I’ll be attending **MIT** in Fall 2026 as a math and computer science major. I love solving problems, proving theorems, building tools, and teaching others.
+I’m a high school junior passionate about mathematics, physics, and computer science. I love solving problems, proving theorems, building tools, and teaching others.
 
 Currently, I’m:
 - Wrapping up a research project on **region-counting in hyperplane arrangements** with MIT PRIMES-USA.
@@ -21,7 +21,7 @@ Currently, I’m:
 A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
 [GitHub ↗](https://github.com/aaronsunboy/hyperplane-viz)
 
-### 🔹 Proof Explorer
+[//]### 🔹 Proof Explorer
 A prototype logic-based tool for formatting and verifying proofs step-by-step, designed to help students learn structured reasoning.  
 [GitHub ↗](https://github.com/aaronsunboy/proof-explorer)
 
