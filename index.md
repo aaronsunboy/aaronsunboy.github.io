@@ -18,7 +18,7 @@ Currently, I’m:
 ## 🧪 Projects
 
 [//]### 🔹 Hyperplane Region Visualizer
-[//]: # "Comment" A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
+[//]A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
 [//]: # "Comment" [GitHub ↗](https://github.com/aaronsunboy/hyperplane-viz)
 
 [//]### 🔹 Proof Explorer
