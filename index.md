@@ -17,27 +17,27 @@ Currently, I’m:
 
 ## 🧪 Projects
 
-### 🔹 Hyperplane Region Visualizer
-A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
-[GitHub ↗](https://github.com/aaronsunboy/hyperplane-viz)
+[//]### 🔹 Hyperplane Region Visualizer
+[//]A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
+[//][GitHub ↗](https://github.com/aaronsunboy/hyperplane-viz)
 
 [//]### 🔹 Proof Explorer
-A prototype logic-based tool for formatting and verifying proofs step-by-step, designed to help students learn structured reasoning.  
-[GitHub ↗](https://github.com/aaronsunboy/proof-explorer)
+[//]A prototype logic-based tool for formatting and verifying proofs step-by-step, designed to help students learn structured reasoning.  
+[//][GitHub ↗](https://github.com/aaronsunboy/proof-explorer)
 
-### 🔹 MathEd-AI (In Progress)
-A research-based AI tool aimed at improving math learning via Socratic questioning. Concept developed for the Non-Trivial Fellowship.  
-[Proposal summary ↗](#) (coming soon)
+[//]### 🔹 MathEd-AI (In Progress)
+[//]A research-based AI tool aimed at improving math learning via Socratic questioning. Concept developed for the Non-Trivial Fellowship.  
+[//][Proposal summary ↗](#) (coming soon)
 
 ---
 
 ## 📜 Research & Academics
 
-- **PRIMES-USA (2025–2026):** Research in discrete geometry and hyperplane arrangements.
+- **PRIMES-USA (2025–2026):** Research in region counting for hyperplane arrangements.
 - **MIT RSI (2025):** Summer research program in STEM for top high school students worldwide.
 - **Yau Mathcamp (2024):** Bronze Best Project Award winner for innovative math research.
 - **Math Olympiad Program (MOP, 2023):** Invited for USAMO performance.
-- Coursework: Multivariable Calc, Linear Algebra, Analysis, Physics C, Java, CS50x
+- Coursework: Multivariable Calc, Linear Algebra, Analysis, Physics C, Java, Harvard CS50x
 
 📄 [View my full CV](./cv.pdf)
 
@@ -46,7 +46,7 @@ A research-based AI tool aimed at improving math learning via Socratic questioni
 ## 🛠 Skills
 
 - **Languages:** Python, C++, Java, LaTeX
-- **Libraries/Tools:** PyTorch, matplotlib, NumPy, Git, Jupyter
+[//]- **Libraries/Tools:** PyTorch, matplotlib, NumPy, Git, Jupyter
 - **Other:** Bilingual in Chinese and English, Spanish IV student
 - **Interests:** Piano, Violin, Kung Fu, Journalism, Chess (USCF class A), Tennis
 
