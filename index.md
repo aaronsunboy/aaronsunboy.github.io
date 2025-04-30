@@ -16,9 +16,9 @@ Currently, I’m:
 
 ## 🧪 Projects
 
-🔹 Hyperplane Region Visualizer
+🔹 Hyperplane Region Visualizer (ongoing)
 
-A Python animation tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
+A Python animation tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D.   
 
 ---
 
