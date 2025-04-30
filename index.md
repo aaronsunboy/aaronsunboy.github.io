@@ -5,13 +5,12 @@ title: Aaron Lin
 
 # 👋 Hi, I'm Aaron Lin
 
-I’m a high school junior passionate about mathematics, physics, and computer science. I love solving problems, proving theorems, building tools, and teaching others.
+I’m a rising high school senior passionate about mathematics, physics, and computer science. I love solving problems, proving theorems, building tools, and teaching others.
 
 Currently, I’m:
 - Wrapping up a research project on **region-counting in hyperplane arrangements** with MIT PRIMES-USA.
 - Preparing for a summer of research at the **MIT Research Science Institute (RSI)**.
 - Teaching math through **Po-Shen Loh’s LIVE** program.
-- Exploring ways to **enhance math education with AI**, which I proposed to the Non-Trivial Fellowship program.
 
 ---
 
@@ -19,16 +18,7 @@ Currently, I’m:
 
 <!### 🔹 Hyperplane Region Visualizer>
 
-[//]A Python tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
-[//]: # "Comment" [GitHub ↗](https://github.com/aaronsunboy/hyperplane-viz)
-
-[//]### 🔹 Proof Explorer
-[//]A prototype logic-based tool for formatting and verifying proofs step-by-step, designed to help students learn structured reasoning.  
-[//][GitHub ↗](https://github.com/aaronsunboy/proof-explorer)
-
-[//]### 🔹 MathEd-AI (In Progress)
-[//]A research-based AI tool aimed at improving math learning via Socratic questioning. Concept developed for the Non-Trivial Fellowship.  
-[//][Proposal summary ↗](#) (coming soon)
+A Python animation tool to visualize the number of regions created by hyperplane arrangements in 2D and 3D. Built based on my MIT PRIMES-USA research under Prof. Olivier Bernardi.  
 
 ---
 
@@ -47,8 +37,8 @@ Currently, I’m:
 ## 🛠 Skills
 
 - **Languages:** Python, C++, Java, LaTeX
-[//]- **Libraries/Tools:** PyTorch, matplotlib, NumPy, Git, Jupyter
-- **Other:** Bilingual in Chinese and English, Spanish IV student
+- **Libraries/Tools:** Manim, Git, Jupyter
+- **Other:** Bilingual in Chinese and English, Spanish (beginner)
 - **Interests:** Piano, Violin, Kung Fu, Journalism, Chess (USCF class A), Tennis
 
 ---
