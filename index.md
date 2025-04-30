@@ -45,6 +45,6 @@ A Python animation tool to visualize the number of regions created by hyperplane
 
 ## 📫 Contact
 
-- 📧 aaronlin0924@gmail.com  
+- 📧 aaronlin0924 [at] gmail [dot] com
 - 🔗 [GitHub](https://github.com/aaronsunboy)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaron-lin-b0675b265/)  
